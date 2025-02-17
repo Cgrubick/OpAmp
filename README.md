@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg)
 
-# Tiny Tapeout Analog Project Template
+# Tiny Tapeout 11 Analog Project - OpAmp
 
 - [Read the documentation for project](docs/info.md)
 
